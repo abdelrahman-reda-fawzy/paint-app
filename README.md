@@ -1,4 +1,4 @@
-# Paint Vector Drawing Application | Java
+# Paint Vector Drawing Application
 
 Java + Swing desktop app for drawing, colorizing, moving, and deleting shapes.
 
