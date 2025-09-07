@@ -2,12 +2,14 @@
 
 Java + Swing desktop app for drawing, colorizing, moving, and deleting shapes.
 
+<img width="1059" height="599" alt="image" src="https://github.com/user-attachments/assets/c24b46be-3d0d-4537-bf1d-4cc58a17f1ba" />
+
 ## Features
 
 - Create basic vector shapes (Circle, Rectangle, Square, Line Segment)
 - Colorize shapes with fill and border settings
 - Move and delete shapes
-- Intuitive interface designed with Java Swing
+- Interface designed with Java Swing
 
 ## How It Works
 
@@ -55,6 +57,8 @@ src/
     SquareWindow.java
 Main.java
 ```
+
+
 
 ## License
 
